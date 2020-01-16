@@ -1,0 +1,187 @@
+{
+  "leaderboard": {},
+  "altLeaderboard": {},
+  "questions": [
+    {
+      "category": "pokemon",
+      "question": "this character is the gym leader of lumiose city",
+      "answers": [
+        "clemont"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "the celdaon city gym leader gives this badge",
+      "answers": [
+        "rainbow"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "the saffron city gym leader gives this badge",
+      "answers": [
+        "marsh"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "the vermillion city gym leader gives this badge",
+      "answers": [
+        "thunder"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "the viridian city gym leader gives this badge",
+      "answers": [
+        "earth"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "the pewter city gym leader gives this badge",
+      "answers": [
+        "boulder"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "the oreburgh city gym leader gives this badge",
+      "answers": [
+        "coal"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "the sootopolis city gym leader gives this badge",
+      "answers": [
+        "rain"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "the lavaridge city gym leader gives this badge",
+      "answers": [
+        "heat"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of eterna city",
+      "answers": [
+        "gardenia"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of vermillion city",
+      "answers": [
+        "ltsurge"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of sootopolis city",
+      "answers": [
+        "juan"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of lavaridge city",
+      "answers": [
+        "flannery"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of pewter city",
+      "answers": [
+        "brock"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of cerulean city",
+      "answers": [
+        "misty"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of oreburgh city",
+      "answers": [
+        "byron"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of cinnabar island",
+      "answers": [
+        "blaine"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of mauville city",
+      "answers": [
+        "wattson"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of blackthorn city",
+      "answers": [
+        "clair"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    },
+    {
+      "category": "pokemon",
+      "question": "This character is the gym leader of mahogany city",
+      "answers": [
+        "pryce"
+      ],
+      "user": "beekay1976",
+      "type": "trivia"
+    }
+  ],
+  "submissions": []
+}
