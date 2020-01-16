@@ -1,0 +1,175 @@
+{
+  "shuppetem": [
+    {
+      "id": "gymchallengegiovannisnidoran",
+      "name": "Giovanni's Nidoran♀",
+      "pack": "Gym Challenge",
+      "packid": "gym2",
+      "type": "Grass",
+      "image": "https://images.pokemontcg.io/gym2/75.png",
+      "cardType": "Basic",
+      "species": "Nidoran-F",
+      "rarity": "Common"
+    },
+    {
+      "id": "gymchallengesabrinasdrowzee",
+      "name": "Sabrina's Drowzee",
+      "pack": "Gym Challenge",
+      "packid": "gym2",
+      "type": "Psychic",
+      "image": "https://images.pokemontcg.io/gym2/95.png",
+      "cardType": "Basic",
+      "species": "Drowzee",
+      "rarity": "Common"
+    },
+    {
+      "id": "gymchallengekogasekans",
+      "name": "Koga's Ekans",
+      "pack": "Gym Challenge",
+      "packid": "gym2",
+      "type": "Grass",
+      "image": "https://images.pokemontcg.io/gym2/77.png",
+      "cardType": "Basic",
+      "species": "Ekans",
+      "rarity": "Common"
+    }
+  ],
+  "bhaskar20": [
+    {
+      "id": "xyslugma",
+      "name": "Slugma",
+      "pack": "XY",
+      "packid": "xy1",
+      "type": "Fire",
+      "image": "https://images.pokemontcg.io/xy1/20.png",
+      "cardType": "Basic",
+      "species": "Slugma",
+      "rarity": "Common"
+    },
+    {
+      "id": "xyledyba",
+      "name": "Ledyba",
+      "pack": "XY",
+      "packid": "xy1",
+      "type": "Grass",
+      "image": "https://images.pokemontcg.io/xy1/6.png",
+      "cardType": "Basic",
+      "species": "Ledyba",
+      "rarity": "Common"
+    },
+    {
+      "id": "xyfennekin",
+      "name": "Fennekin",
+      "pack": "XY",
+      "packid": "xy1",
+      "type": "Fire",
+      "image": "https://images.pokemontcg.io/xy1/24.png",
+      "cardType": "Basic",
+      "species": "Fennekin",
+      "rarity": "Common"
+    },
+    {
+      "id": "arceuscroagunk",
+      "name": "Croagunk",
+      "pack": "Arceus",
+      "packid": "pl4",
+      "type": "Fighting",
+      "image": "https://images.pokemontcg.io/pl4/61.png",
+      "cardType": "Basic",
+      "species": "Croagunk",
+      "rarity": "Common"
+    },
+    {
+      "id": "arceusmakuhita",
+      "name": "Makuhita",
+      "pack": "Arceus",
+      "packid": "pl4",
+      "type": "Fighting",
+      "image": "https://images.pokemontcg.io/pl4/68.png",
+      "cardType": "Basic",
+      "species": "Makuhita",
+      "rarity": "Common"
+    },
+    {
+      "id": "arceusbeedrill",
+      "name": "Beedrill ",
+      "pack": "Arceus",
+      "packid": "pl4",
+      "type": "Grass",
+      "image": "https://images.pokemontcg.io/pl4/53.png",
+      "cardType": "Basic",
+      "species": "Beedrill",
+      "rarity": "Common"
+    }
+  ],
+  "aauraguardian": [
+    {
+      "id": "primalclashvolbeat",
+      "name": "Volbeat",
+      "pack": "Primal Clash",
+      "packid": "xy5",
+      "type": "Grass",
+      "image": "https://images.pokemontcg.io/xy5/17.png",
+      "cardType": "Basic",
+      "species": "Volbeat",
+      "rarity": "Common"
+    },
+    {
+      "id": "primalclashvolbeat",
+      "name": "Volbeat",
+      "pack": "Primal Clash",
+      "packid": "xy5",
+      "type": "Grass",
+      "image": "https://images.pokemontcg.io/xy5/17.png",
+      "cardType": "Basic",
+      "species": "Volbeat",
+      "rarity": "Common"
+    },
+    {
+      "id": "primalclashclamperl",
+      "name": "Clamperl",
+      "pack": "Primal Clash",
+      "packid": "xy5",
+      "type": "Water",
+      "image": "https://images.pokemontcg.io/xy5/49.png",
+      "cardType": "Basic",
+      "species": "Clamperl",
+      "rarity": "Common"
+    }
+  ],
+  "ahelpfulrayquaza": [
+    {
+      "id": "basedrowzee",
+      "name": "Drowzee",
+      "pack": "Base",
+      "packid": "base1",
+      "type": "Psychic",
+      "image": "https://images.pokemontcg.io/base1/49.png",
+      "cardType": "Basic",
+      "species": "Drowzee",
+      "rarity": "Common"
+    },
+    {
+      "id": "basevulpix",
+      "name": "Vulpix",
+      "pack": "Base",
+      "packid": "base1",
+      "type": "Fire",
+      "image": "https://images.pokemontcg.io/base1/68.png",
+      "cardType": "Basic",
+      "species": "Vulpix",
+      "rarity": "Common"
+    },
+    {
+      "id": "basepikachu",
+      "name": "Pikachu",
+      "pack": "Base",
+      "packid": "base1",
+      "type": "Lightning",
+      "image": "https://images.pokemontcg.io/base1/58.png",
+      "cardType": "Basic",
+      "species": "Pikachu",
+      "rarity": "Common"
+    }
+  ]
+}
